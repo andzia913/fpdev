@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Cardo:400i|Rubik:400,700&display=swap");
+
+:root {
+  --font-family: 'Arial', sans-serif;
+  --gradient-text: linear-gradient(315deg, #383E42 0%, #000000 74%);
+  --color-dark: #212629;
+  --color-ant: rgb(56, 62, 66);
+  --color-ant-light: rgba(56, 62, 66, 0.5);
+  --color-white: #FFFFFF;
+  --color-orange: rgb(224, 157, 56);
+  --color-yellow: #FFCC68;
+  --font-sans: "Rubik", sans-serif;
+  --font-serif: "Cardo", serif;
+}
